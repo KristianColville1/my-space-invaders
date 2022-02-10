@@ -9,7 +9,7 @@ I am an ambitious fellow and want to progress rapidly in this industry.
 
 Wish me luck in my endeavours. The time of writing this explanation is the 10th of February 2022.
 
-![Learning outcomes](assets/images/snake.png)
+![Learning outcomes](assets/images/space-invaders.png)
 
 ## content
 I used [Free Code Camp](https://www.freecodecamp.org/) to help develop my javascript skills.
